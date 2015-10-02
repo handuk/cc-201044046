@@ -1,0 +1,5 @@
+$ hdfs dfs -rmr /output
+// 폴더삭제
+
+$ hdfs dfs -rm /user/hadoop/input/test.txt
+// 파일삭제
